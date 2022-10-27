@@ -29,7 +29,7 @@ const (
 	// The endpoint for the Open Match Frontend service.
 	omFrontendEndpoint = "open-match-frontend.open-match.svc.cluster.local:50504"
 	// Number of tickets created per iteration
-	ticketsPerIter = 20
+	ticketsPerIter = 7500
 )
 
 func main() {
